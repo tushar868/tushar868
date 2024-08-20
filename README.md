@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Lohar</h1>
 <h3 align="center">Web / Android developer and designer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar868&label=Profile%20views&color=0e75b6&style=flat" alt="tushar868" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar868&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tushar868" /> </p>
 
 - 🔭 I’m currently working on **Web and android platform (Freelancer).**
 
